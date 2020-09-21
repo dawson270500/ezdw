@@ -2,6 +2,10 @@
 
 Version 1
 
+To install ezdw as a standard command move both ezdw and ezdw.py into /bin/
+
+Then run the command `sudo chmod +x /bin/ezdw/`
+
 # User Usage
 
 To install something download the .ez file the have created.
