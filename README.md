@@ -1,5 +1,15 @@
 # ezdw
 
+Stuff coming in ezdm:
+
+ - Ability to run compile commqands from within a file
+ 
+ - Been able to unistall a '.ez', Im still figuring out how I'm gonna do that
+ 
+ - Possibily at some point a centeral server, simular to pacman or apt, but it will not contain the files to be downloaded just the .ez. Issue is money for that one, I dont have any to rent a server
+ 
+ - Better package flags, well more of them in case you want to use them, Im taking suggestions for what to add with that
+
 Version 1
 
 To install ezdw as a standard command move both ezdw and ezdw.py into /bin/
