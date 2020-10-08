@@ -1,6 +1,6 @@
 # ezdw
 
-Stuff coming in ezdm:
+Stuff coming in ezdw:
 
  - Ability to run compile commqands from within a file
  
